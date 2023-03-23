@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/chethanyadav456/Giveaway)](https://repl.it/github/chethanyadav456/Giveaway)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/chethanyadav456/Giveaway)
 
-![Contributors](https://img.shields.io/github/contributors/chethanyadav456/Giveaway?color=dark-green) ![Forks](https://img.shields.io/github/forks/zrSadek/Giveaway-bot?style=social) ![Stargazers](https://img.shields.io/github/stars/chethanyadav456/Giveaway?style=social) ![Issues](https://img.shields.io/github/issues/chethanyadav456/Giveaway) ![License](https://img.shields.io/github/license/chethanyadav456/Giveaway) 
+![Contributors](https://img.shields.io/github/contributors/chethanyadav456/Giveaway?color=dark-green) ![Forks](https://img.shields.io/github/forks/zrSadek/Giveaway-bot?style=social) ![Stargazers](https://img.shields.io/github/stars/zrSadek/Giveaway-bot?style=social) ![Issues](https://img.shields.io/github/issues/chethanyadav456/Giveaway) ![License](https://img.shields.io/github/license/chethanyadav456/Giveaway) 
 
 ## About The Project
 
