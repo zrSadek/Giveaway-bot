@@ -1,0 +1,26 @@
+{
+  "name": "giveaway",
+  "version": "1.0.2",
+  "description": "A giveaway bot made by Raaz#2233",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanyadav456/Giveaway.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chethanyadav456/Giveaway/issues"
+  },
+  "homepage": "https://github.com/chethanyadav456/Giveaway#readme",
+  "author": "Raaz#2233",
+  "license": "MIT",
+  "dependencies": {
+    "discord-giveaways": "^5.0.1",
+    "discord.js": "^13.3.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.13",
+    "node": "^17.1.0"
+  }
+}
